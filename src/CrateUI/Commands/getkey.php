@@ -16,9 +16,13 @@ class getkey extends Command{
         parent::__construct("getkey");
         $this->setDescription("get crate key");
         $this->setAliases(["key"]);
+        $this->setPermission("crate.key");
     }
 
     public function execute(CommandSender $sender, string $label, array $args){
+        if (!$this->testPermission($sender)){
+        return true;
+        }
         $inv = $sender->getInventory();
         $commonname = Item::get(131,1,1);
         $votename = Item::get(131,2,1);
