@@ -26,6 +26,16 @@ Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To downl
     
  You can ask us to add crate if you want to at Issues bar.
  
+ # Commands:
+ 
+ - [x] key | getkey : get crate key!
+ 
+ - [x] crate | open gui
+ 
+ # Permissions:
+ 
+ - [x] crate.key
+ 
  # Developer:
  
  * xXNiceYT - Main Developer.
