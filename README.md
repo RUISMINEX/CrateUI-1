@@ -2,12 +2,12 @@
 
 - [ ] Config
 
-# Finished:
 - [ ] Fix all Crates Items
 
-- [x] Broadcast Message on open Crate.
-
 - [ ] Title on open crate.
+
+# Finished:
+- [x] Broadcast Message on open Crate.
 
 - [x] key Features
     - [x] Custom Key Name
