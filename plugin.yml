@@ -7,3 +7,7 @@ author: xXNiceYT
 commands:
  crate:
   description: "crate cmd"
+
+permissions:
+ crate.key:
+  description: "get key permission"
