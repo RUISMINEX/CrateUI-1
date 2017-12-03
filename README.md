@@ -1,3 +1,7 @@
+# Download
+Click [here](https://poggit.pmmp.io/ci/xXNiceAssasinl0/CrateUI/CrateUI) To download phar.
+
+
 # Features
 
 - [ ] Config
